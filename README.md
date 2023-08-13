@@ -12,6 +12,7 @@ This tutorial outlines the basics of virtual private networks by installing Prot
 - Remote Desktop
 - https://www.whatismyip.com/
 - Notepad
+- https://protonvpn.com/
   
 
 <h2>Operating Systems Used </h2>
@@ -20,10 +21,11 @@ This tutorial outlines the basics of virtual private networks by installing Prot
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Open notepad and record the IP address from your local computer in a notepad text file by using https://www.whatismyip.com/
+- Using an Azure virtual machine record its IP address using the same method.
+- Dowload Proton VPN onto the virtual machine.
+- Use the virtual machine to download and install Proton VPN.
+- Use Proton VPN to change the virtual machine's IP address and record it using the same method.
 
 <h2>Deployment and Configuration Steps</h2>
 
