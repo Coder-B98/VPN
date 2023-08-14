@@ -38,7 +38,7 @@ Use a web browser and go to  https://www.whatismyip.com/ and record the IP addre
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Da9a2AN.png"/>
 </p>
 <p>
   Use an Azure Virtual Machine and find the IP using the same method and note the difference.
@@ -46,19 +46,19 @@ Use a web browser and go to  https://www.whatismyip.com/ and record the IP addre
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xxvdftj.png"/>
 </p>
 <p>
 Using the virtual machine install Proton VPN by going to https://protonvpn.com/ and clicking the highlighted button.
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lMSMruc.png"/>
 </p>
 <p>
-Once the VPN is installed connect to the Japanese server.
+Once the VPN is installed connect to the Japanese server. The VPN in the disconnected state will show connect instead of disconnect. Click on that button and allow the virtual machine to establish a VPN connection which will take a few moments.
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W4oxZK0.png"/>
 </p>
 <p>
 Once connected to the server return to ttps://www.whatismyip.com/ and note the difference. This concludes the basic setup for a VPN and demonstration of how it changes IP addresses
